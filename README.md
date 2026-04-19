@@ -1,4 +1,4 @@
-# Orientation-Gate-v1.5
+# Orientation-Gate
 Pre-execution control layer for automated actions
 ## Demo
 
