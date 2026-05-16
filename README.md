@@ -1,5 +1,5 @@
 
-# Orientation Gate
+# Orientation Gate™
 
 **Control Layer for Automated Decision Systems**
 
